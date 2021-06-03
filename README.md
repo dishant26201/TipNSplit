@@ -5,6 +5,10 @@ A simple Android tip calculator and bill splitter app. Enter the base amount, ti
 
 ## Snapshots
 
+![alt text](https://drive.google.com/file/d/1KLzkTEgYh2NVd9WoMaQwAinDsrFVmSss/view?usp=sharing)
+
+![alt text](https://drive.google.com/file/d/1i3IfkCN0a7J-MffYVZ5-RIpOOEWspZRk/view?usp=sharing)
+
 
 ## Citations
 
