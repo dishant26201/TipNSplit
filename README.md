@@ -1,4 +1,4 @@
-# TipNSplit
+# Tip N' Split
 
 A simple Android tip calculator and bill splitter app. Enter the base amount, tip percentage, and the number of people sharing the bill to generate a total (base + tip) and amount per person.
 
