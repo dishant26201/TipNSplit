@@ -12,6 +12,6 @@ A simple Android tip calculator and bill splitter app. Enter the base amount, ti
  
 ## Citations
   
-- Rahul Pandey's YouTube playlist on developing a tip calculator app for android
+- Rahul Pandey's YouTube playlist on developing a tip calculator android app
   - Link: https://youtube.com/playlist?list=PL7NYbSE8uaBBAl6MQKvUKk0yGrAO4HSfY
   - Description: concept and basic features
